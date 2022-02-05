@@ -201,6 +201,9 @@ h6 {
   #sign-in .text-input {
     margin-bottom: 0.7rem;
   }
+  #sign-in .secondary-btn {
+    height: auto;
+  }
   #main-footer {
     padding-top: 1rem;
   }
